@@ -29,4 +29,4 @@ social | Webhooks for Twitter, Reddit, etc. for Cyber Discovery and related acco
 elite-2018 | Discussion of CyberStart Elite 2018, particularly to keep spoiler-y discussions separate | @everyone denied, @Veteran 2018 can read/write
 year-X (10, 11, 12, 13, and the 18+ channel) | Discussion of year specific activity, e.g. exams | @everyone denied, the corresponding Year role can read/write
 developer-general(+testing+log) | Community Developer channels for collaborating on projects | @everyone denied, @Community Developer can read/write
-bot-commands | For using bot commmands, e.g. the economy module or spamming :quotes | @everyone can read/write
+bot-commands | For using bot commands, e.g. the economy module or spamming :quotes | @everyone can read/write
