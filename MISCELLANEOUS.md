@@ -19,7 +19,7 @@ Name | Picture
 :OhRlyNow: | ![](https://cdn.discordapp.com/emojis/450068991210160129.png?v=1)
 :dab: | ![](https://cdn.discordapp.com/emojis/450068991222874114.png?v=1)
 :KMS: | ![](https://cdn.discordapp.com/emojis/450068991252103168.png?v=1)
-:smirk: | ![](https://cdn.discordapp.com/emojis/450068991579258880.png?v=1)
+:smirk~1: | ![](https://cdn.discordapp.com/emojis/450068991579258880.png?v=1)
 :rollsafe: | ![](https://cdn.discordapp.com/emojis/450068991990300672.png?v=1)
 :thot: | ![](https://cdn.discordapp.com/emojis/450068992204210195.png?v=1)
 :NoU: | ![](https://cdn.discordapp.com/emojis/450068992284164106.png?v=1)
