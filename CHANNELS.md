@@ -1,6 +1,6 @@
 # Channels
 
-Please note that these channels may change over time; almost all channels permissions are overriden to allow @Root and @Sudo access.
+Please note that these channels may change over time; almost all channels permissions are overridden to allow @Root and @Sudo access.
 
 ## Uncategorised
 Channel | Type | Purpose | Role Permissions
