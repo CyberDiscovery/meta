@@ -86,4 +86,4 @@ Developer Voice | :microphone: | Corresponding voice channel for #developer-gene
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #bot-commands | :speech_balloon: | For using bot commands, e.g. the economy module or spamming :quotes | @everyone can read/write
-AFK | :microphone: | Where users who idle in voice channels are automatically moved | @everyone cannot join
+AFK | :microphone: | Where users who idle in voice channels are automatically moved | @everyone cannot join but will be moved in automatically if idle
