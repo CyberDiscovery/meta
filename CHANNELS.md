@@ -27,7 +27,7 @@ Channel | Type | Purpose | Role Permissions
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #100-percent | :speech_balloon: | Can be used to safely discuss challenge spoilers among people who have completed 100% of CyberStart Game | @everyone denied, @100 Percent can read/write
-100 percent | :microphone: | Corresponding voice channel for #100-percent | @everyone denied, @100 Percent can read/write
+100 percent | :microphone: | Corresponding voice channel for #100-percent | @everyone denied, @100 Percent can join and talk
 
 ## Sound Samurais
 Channel | Type | Purpose | Role Permissions
