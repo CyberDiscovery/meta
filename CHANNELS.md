@@ -53,7 +53,7 @@ Channel | Type | Purpose | Role Permissions
 #elite-2018 | :speech_balloon: | Discussion of CyberStart Elite 2018, particularly to keep spoiler-y discussions separate | @everyone denied, @Veteran 2018 can read/write
 #cloud-ctf | :speech_balloon: | Discussion of the CyberStart Cloud CTF Beta | @everyone denied, @Cloud CTF can read/write
 Cloud CTF | :microphone: | Corresponding voice channel for #cloud-ctf | @everyone denied, @Cloud CTF can talk
-CyberStart Elite | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can read/write
+CyberStart Elite | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
 
 
 ## Server Stuff
