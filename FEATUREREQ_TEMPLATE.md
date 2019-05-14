@@ -5,7 +5,7 @@
 
 
 
-### *Optional: Reasoning / Explaination:*
+### *Reasoning / Explaination:*
 [fill out as applicable]
 
 
