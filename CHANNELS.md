@@ -23,6 +23,15 @@ Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #cyberstart | :speech_balloon: | General discussion of CyberStart programmes | @everyone can read/write
 
+## Server Stuff
+Channel | Type | Purpose | Role Permissions
+--- | --- | --- | ---
+#friends-of-cd | :speech_balloon: | Invite links to other partner servers | @everyone can read, @Root can write
+#resources | :speech_balloon: | Sharing of useful resources | @everyone can read/write
+#quotes | :speech_balloon: | Quoting funny or out-of-context messages | @everyone can read, @Quote Czar can write
+#polls | :speech_balloon: | Polls made with ?suggest will go in here | @everyone can read, bots can write
+#social | :speech_balloon: | Webhooks for Twitter, Reddit, etc. for Cyber Discovery and related accounts | @everyone can read, bots can write
+
 ## 100 Percent
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
@@ -54,16 +63,6 @@ Channel | Type | Purpose | Role Permissions
 #cloud-ctf | :speech_balloon: | Discussion of the CyberStart Cloud CTF Beta | @everyone denied, @Cloud CTF can read/write
 Cloud CTF | :microphone: | Corresponding voice channel for #cloud-ctf | @everyone denied, @Cloud CTF can talk
 CyberStart Elite | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
-
-
-## Server Stuff
-Channel | Type | Purpose | Role Permissions
---- | --- | --- | ---
-#friends-of-cd | :speech_balloon: | Invite links to other partner servers | @everyone can read, @Root can write
-#resources | :speech_balloon: | Sharing of useful resources | @everyone can read/write
-#quotes | :speech_balloon: | Quoting funny or out-of-context messages | @everyone can read, @Quote Czar can write
-#polls | :speech_balloon: | Polls made with ?suggest will go in here | @everyone can read, bots can write
-#social | :speech_balloon: | Webhooks for Twitter, Reddit, etc. for Cyber Discovery and related accounts | @everyone can read, bots can write
 
 ## Years
 Channel | Type | Purpose | Role Permissions
