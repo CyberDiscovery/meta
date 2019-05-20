@@ -2,7 +2,7 @@
 
 Please note that these channels may change over time; almost all channels permissions are overridden to allow @Root and @Sudo access.
 
-## --Add a name here to make it a group--
+## IMPORTANT
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #announcements | :speech_balloon: | Announcements related to the server or Cyber Discovery | @everyone can read, @Root can write
