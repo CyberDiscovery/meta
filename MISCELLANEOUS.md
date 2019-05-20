@@ -66,3 +66,6 @@ Name | Picture
 :BlobbleWobble: | ![](https://cdn.discordapp.com/emojis/573579518980390914.gif?v=1)
 :SuperRotatingThink: | ![](https://cdn.discordapp.com/emojis/573579519433113610.gif?v=1)
 :GoogleAssistant: | ![](https://cdn.discordapp.com/emojis/573579519638634526.gif?v=1)
+
+## Other
+Make !rank DM users rather than post a message?
