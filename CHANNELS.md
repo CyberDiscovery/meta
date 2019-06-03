@@ -60,9 +60,16 @@ Channel | Type | Purpose | Role Permissions
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #elite-2018 | :speech_balloon: | Discussion of CyberStart Elite 2018, particularly to keep spoiler-y discussions separate | @everyone denied, @Veteran 2018 can read/write
-#cloud-ctf | :speech_balloon: | Discussion of the CyberStart Cloud CTF Beta | @everyone denied, @Cloud CTF can read/write
-Cloud CTF | :microphone: | Corresponding voice channel for #cloud-ctf | @everyone denied, @Cloud CTF can talk
 CyberStart Elite | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
+#elite-2019 | :speech_balloon: | Discussion of CyberStart Elite 2019 | @everyone denied, @Elite 2019 can read/write
+#elite-london-older | :speech_balloon | Discussion of the CyberStart Elite 2019 London Camp for 16-18 year olds | @everyone denied, @Elite London Older can read/write
+#elite-lancaster-older | :speech_balloon | Discussion of the CyberStart Elite 2019 Lancaster Camp for 16-18 year olds | @everyone denied, @Elite Lancaster Older can read/write
+#elite-birmingham-older | :speech_balloon | Discussion of the CyberStart Elite 2019 Birmingham Camp for 16-18 year olds | @everyone denied, @Elite Birmingham Older can read/write
+#elite-london-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 London Camp for 14-15 year olds | @everyone denied, @Elite London Younger can read/write
+#elite-lancaster-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 Lancaster Camp for 14-15 year olds | @everyone denied, @Elite Lancaster Younger can read/write
+#elite-birmingham-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 Birmingham Camp for 14-15 year olds | @everyone denied, @Elite Birmingham Younger can read/write
+#elite-exchange | :speech_balloon | Discussion of the Elite Exchange for 16-17 year olds | @everyone denied, @Elite Exchange Shortlist and @Elite Exchange Confirmed can read/write
+Elite 2019 | :microphone: | Corresponding voice channel for #elite-2019 | @everyone denied, @Elite 2019 can join and talk
 
 ## Years
 Channel | Type | Purpose | Role Permissions
