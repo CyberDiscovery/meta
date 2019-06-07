@@ -1,4 +1,4 @@
-# CD Discord Meta Repository
+# Cyber Discovery Community Discord Meta Repository
 This repository is for meta discussion of the Cyber Discovery Discord server. https://discord.cyberdiscoverycommunity.uk
 
 ## Code of Conduct
