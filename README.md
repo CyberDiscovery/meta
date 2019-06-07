@@ -17,8 +17,8 @@ Following comments and actions by the Admin Team or server members on the issue,
 
 ### Making PRs
 For any suggestions, improvements, or solutions to current Issues, just make a Pull Request. Follow these steps:
-1. Either fork the repository or make edits to files on a separate branch in `meta`. 
-2. Edit the necessary files for your issue on the fork or branch.
+1. Fork the `meta` repository. 
+2. Edit the necessary files for your issue on the fork.
 3. Once done, navigate to the `Pull requests` tab.
 4. Click on the `New pull request` button in the top-right corner. 
 5. Describe the changes you've made and submit it.
