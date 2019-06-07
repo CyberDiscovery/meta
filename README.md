@@ -7,7 +7,7 @@ This repository is for serious suggestions to the server - we expect all suggest
 We welcome differing opinions and debate, but please make sure that this is done inoffensively. Be welcoming, inclusive, respectful, empathetic and constructive, and the whole process will be much smoother. 😄
 
 ## Usage
-We understand the meta repo can be somewhat confusing, so here's exactly how to use it:
+We understand that the meta repo can be somewhat confusing, so here's exactly how to use it:
 ### Making Issues
 If you have any problems with the server, or aspects you think should be changed, make an Issue! Make sure no one has addressed the issue you have in another issue or PR before making it - if not, you can do the latter by:
 1. Navigate to the `Issues` tab.
