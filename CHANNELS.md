@@ -69,7 +69,6 @@ Channel | Type | Purpose | Role Permissions
 #maths | :speech_balloon: | Discussion of maths or sharing (or asking for help) of problems | @everyone can read/write
 #science | :speech_balloon: | Discussion of all science topics that don't fit into other channels | @everyone can read/write
 #programming | :speech_balloon: | Discussion and help with programming | @everyone can read/write
-#linguistics | :speech_balloon: | Discussion of linguistics - leftover from April Fool's that was popular enough to leave, at least for the time being | @everyone can read/write
 
 ## Years
 Channel | Type | Purpose | Role Permissions
