@@ -17,6 +17,7 @@ Channel | Type | Purpose | Role Permissions
 #media | :speech_balloon: | TV, movies, music, etc. | @everyone can read/write
 #gaming | :speech_balloon: | Video games in all their forms | @everyone can read/write
 #memes | :speech_balloon: | Posting SFW memes | @everyone can read/write
+#tech | :speech_balloon: | Computer hardware, software & practical STEM applications | @everyone can read/write
 
 ## CyberStart
 Channel | Type | Purpose | Role Permissions
