@@ -70,3 +70,4 @@ Name | Picture
 ## Other
 #AnaForRoot?
 Make !rank DM users rather than post a message?
+\#polls will no longer be purged regularly.
