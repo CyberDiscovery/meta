@@ -23,6 +23,7 @@ Channel | Type | Purpose | Role Permissions
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #cyberstart | :speech_balloon: | General discussion of CyberStart programmes | @everyone can read/write
+#assess | :speech_balloon: | Discussion of CyberStart Assess | @everyone can read/write
 
 ## Server Stuff
 Channel | Type | Purpose | Role Permissions
@@ -38,21 +39,11 @@ Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #elite-2018 | :speech_balloon: | Discussion of CyberStart Elite 2018, particularly to keep spoiler-y discussions separate | @everyone denied, @Veteran 2018 can read/write
 #elite-2019 | :speech_balloon: | Discussion of CyberStart Elite 2019 | @everyone denied, @Elite 2019 can read/write
-#elite-london-older | :speech_balloon | Discussion of the CyberStart Elite 2019 London Camp for 16-18 year olds | @everyone denied, @Elite London Older can read/write
-#elite-lancaster-older | :speech_balloon | Discussion of the CyberStart Elite 2019 Lancaster Camp for 16-18 year olds | @everyone denied, @Elite Lancaster Older can read/write
-#elite-birmingham-older | :speech_balloon | Discussion of the CyberStart Elite 2019 Birmingham Camp for 16-18 year olds | @everyone denied, @Elite Birmingham Older can read/write
-#elite-london-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 London Camp for 14-15 year olds | @everyone denied, @Elite London Younger can read/write
-#elite-lancaster-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 Lancaster Camp for 14-15 year olds | @everyone denied, @Elite Lancaster Younger can read/write
-#elite-birmingham-younger | :speech_balloon | Discussion of the CyberStart Elite 2019 Birmingham Camp for 14-15 year olds | @everyone denied, @Elite Birmingham Younger can read/write
-#elite-exchange | :speech_balloon | Discussion of the Elite Exchange for 16-17 year olds | @everyone denied, @Elite Exchange Shortlist and @Elite Exchange Confirmed can read/write
+#cyberists | :speech_balloon: | Preparation for SEC504 exam | @everyone denied, @Cyberists can read/write
+#forensicators | :speech_balloon: | Preparation for FOR500 exam | @everyone denied, @Forensicators can read/write
+#before-light | :speech_balloon: | Discussion of 2019's second wave Elite events | @everyone denied, @Before Light can read/write
 Elite 2018| :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
 Elite 2019 | :microphone: | Corresponding voice channel for #elite-2019 | @everyone denied, @Elite 2019 can join and talk
-
-## 100 Percent
-Channel | Type | Purpose | Role Permissions
---- | --- | --- | ---
-#100-percent | :speech_balloon: | Can be used to safely discuss challenge spoilers among people who have completed 100% of CyberStart Game | @everyone denied, @100 Percent can read/write
-100 percent | :microphone: | Corresponding voice channel for #100-percent | @everyone denied, @100 Percent can join and talk
 
 ## Sound Samurais
 Channel | Type | Purpose | Role Permissions
@@ -62,11 +53,13 @@ Channel | Type | Purpose | Role Permissions
 General Voice | :microphone: | For voice discussions | @everyone can talk
 Music Club | :microphone: | For communal listening | @everyone can talk, @Trusted can control the music bot
 Gaming Voice | :microphone: | For discussion whilst gaming | @everyone can talk
+TTT Voice | :microphone: | For discussion whilst playing Trouble in Terrorist Town | @everyone can talk
 
 ## STEM Dojo
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #challenges | :speech_balloon: | Community made challenges | @everyone can read/write
+#events | :speech_balloon: | Relevant upcoming events | @everyone can read/write
 #maths | :speech_balloon: | Discussion of maths or sharing (or asking for help) of problems | @everyone can read/write
 #science | :speech_balloon: | Discussion of all science topics that don't fit into other channels | @everyone can read/write
 #programming | :speech_balloon: | Discussion and help with programming | @everyone can read/write
@@ -74,6 +67,7 @@ Channel | Type | Purpose | Role Permissions
 ## Years
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
+#year-9 | :speech_balloon: | Discussion of year 9 specific activity, e.g. exams | @everyone denied, @Year 9 can read/write
 #year-10 | :speech_balloon: | Discussion of year 10 specific activity, e.g. exams | @everyone denied, @Year 10 can read/write
 #year-11 | :speech_balloon: | Discussion of year 11 specific activity, e.g. exams | @everyone denied, @Year 11 can read/write
 #year-12 | :speech_balloon: | Discussion of year 12 specific activity, e.g. exams | @everyone denied, @Year 12 can read/write
