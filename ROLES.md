@@ -8,10 +8,10 @@ Mentor | Specialists for providing support | :x:
 Agent J | [Agent J](https://twitter.com/jameslyne) himself | :x:
 Official Cyber Discovery Staff | Staff from the [Cyber Discovery](https://joincyberdiscovery.com) program | :heavy_check_mark:
 For Your Own Protection | Moderation role to hide all channels | :x:
-Official Unofficial Purveyor of Lyne-ry | Artists or something, IDK | :x:
 Community Developer | Made significant contributions to the [community GitHub projects](https://github.com/CyberDiscovery) | :heavy_check_mark:
 True 100% | Completed all of CyberStart Assess, Game, and Essentials | :x:
 100 Percent | Completed all of CyberStart Game | :x:
+Veteran - 2019 | Qualified for CyberStart Elite in 2019 | :x:
 Veteran - 2018 | Qualified for CyberStart Elite in 2018 | :x:
 Essentials | Completed CyberStart Essentials | :x:
 HQ | Completed the headquarters base from CyberStart Game | :x:
