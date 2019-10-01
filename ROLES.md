@@ -22,6 +22,7 @@ Partner Server | Staff or significant members of affiliated servers | :x:
 Quote Czar | Have the ability to quote messages in #quotes | :x:
 Level [1-60] | Automatically assigned roles for [MEE6](https://mee6.xyz) levels | :x:
 Year [10-13] | Corresponding school years | :x:
+Technically Adults | Those beyond Year 13 | :x:
 "Death to bots" club | Opted out of [MEE6](https://mee6.xyz) levels | :x:
 Trusted | Can use external emoji and control [Rythm](https://rythmbot.co/) | :x:
 Club Leader | Restricted access for [Cyber Discovery](https://joincyberdiscovery.com) club leaders | :x:
