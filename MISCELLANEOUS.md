@@ -57,6 +57,12 @@ Name | Picture
 :AgentQ: | ![](https://cdn.discordapp.com/emojis/542394754181103626.png?v=1)
 :AngryLyne: | ![](https://cdn.discordapp.com/emojis/542429651667255356.png?v=1)
 :shortcut: | ![](https://cdn.discordapp.com/emojis/575027113740992537.png?v=1)
+:bigblueb: | ![](https://cdn.discordapp.com/emojis/623786532733583380.png?v=1)
+:hypersH: | ![](https://cdn.discordapp.com/emojis/623927399167426573.png?v=1)
+`:detective:` | ![](https://cdn.discordapp.com/emojis/624955983382183951.png?v=1)
+:spooky: | ![](https://cdn.discordapp.com/emojis/627973874096537601.png?v=1)
+:angrybentechy: | ![](https://cdn.discordapp.com/emojis/628694213105811466.png?v=1)
+
 
 ### Animated (Nitro)
 Name | Picture
