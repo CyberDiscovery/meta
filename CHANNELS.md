@@ -14,6 +14,7 @@ Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #general | :speech_balloon: | General discussion | @everyone can read/write
 #overflow | :speech_balloon: | Discussion that doesn't belong in general, including controversial topics or trolling | @everyone can read/write
+#deep | :speech_balloon: | Discussion about things that are deep (very intense, profound, or intriguing) | Trusted can read/write to avoid trolling
 #media | :speech_balloon: | TV, movies, music, etc. | @everyone can read/write
 #gaming | :speech_balloon: | Video games in all their forms | @everyone can read/write
 #memes | :speech_balloon: | Posting SFW memes | @everyone can read/write
