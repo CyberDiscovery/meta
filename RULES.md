@@ -13,7 +13,7 @@
 
 4. No harassment
     
-    *Including sexual harassment or encouraging or harassment*
+    *Including sexual harassment and encouraging harassment*
         
 5. Use the appropriate channels
     
