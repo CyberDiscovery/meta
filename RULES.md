@@ -9,7 +9,7 @@
 
 3. No inappropriate content
     
-    *Remember this is a server for a programme for 14-18 year olds. No gory, sexual or scary content, e.g. screamer links, porn, death, etc.*
+    *Remember this is a server for a programme for 13-18 year olds. No gory, sexual or scary content, e.g. screamer links, porn, death, etc.*
 
 4. No harassment
     
