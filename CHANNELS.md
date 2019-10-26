@@ -23,7 +23,7 @@ Channel | Type | Purpose | Role Permissions
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #cyberstart | :speech_balloon: | General discussion of CyberStart programmes | @everyone can read/write
-#assess | :speech_balloon: | Discussion of CyberStart Assess | @everyone can read/write
+#boot-up | :speech_balloon: | Discussion of CyberStart Compete - Boot Up | @Compete - Boot Up can read/write
 
 ## Server Stuff
 Channel | Type | Purpose | Role Permissions
@@ -42,8 +42,8 @@ Channel | Type | Purpose | Role Permissions
 #cyberists | :speech_balloon: | Preparation for SEC504 exam | @everyone denied, @Cyberists can read/write
 #forensicators | :speech_balloon: | Preparation for FOR500 exam | @everyone denied, @Forensicators can read/write
 #before-light | :speech_balloon: | Discussion of 2019's second wave Elite events | @everyone denied, @Before Light can read/write
-Elite 2018| :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
-Elite 2019 | :microphone: | Corresponding voice channel for #elite-2019 | @everyone denied, @Elite 2019 can join and talk
+Elite 2018 | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
+Elite 2019 | :microphone: | Corresponding voice channel for #elite-2019 | @everyone denied, @Veteran 2019 can join and talk
 
 ## Sound Samurais
 Channel | Type | Purpose | Role Permissions
@@ -53,7 +53,6 @@ Channel | Type | Purpose | Role Permissions
 General Voice | :microphone: | For voice discussions | @everyone can talk
 Music Club | :microphone: | For communal listening | @everyone can talk, @Trusted can control the music bot
 Gaming Voice | :microphone: | For discussion whilst gaming | @everyone can talk
-TTT Voice | :microphone: | For discussion whilst playing Trouble in Terrorist Town | @everyone can talk
 
 ## STEM Dojo
 Channel | Type | Purpose | Role Permissions
@@ -72,7 +71,7 @@ Channel | Type | Purpose | Role Permissions
 #year-11 | :speech_balloon: | Discussion of year 11 specific activity, e.g. exams | @everyone denied, @Year 11 can read/write
 #year-12 | :speech_balloon: | Discussion of year 12 specific activity, e.g. exams | @everyone denied, @Year 12 can read/write
 #year-13 | :speech_balloon: | Discussion of year 13 specific activity, e.g. exams | @everyone denied, @Year 13 can read/write
-#caramelised-sugar-appreciation-club | :speech_balloon:  | Discussion of further education/employment specific activity | @everyone denied, @Always just a bit too old can read/write
+#technically-adults | :speech_balloon:  | Discussion of further education/employment specific activity | @everyone denied, @Always just a bit too old can read/write
 
 ## Community Developers
 Channel | Type | Purpose | Role Permissions
