@@ -62,6 +62,7 @@ Name | Picture
 `:detective:` | ![](https://cdn.discordapp.com/emojis/624955983382183951.png?v=1)
 :spooky: | ![](https://cdn.discordapp.com/emojis/627973874096537601.png?v=1)
 :angrybentechy: | ![](https://cdn.discordapp.com/emojis/628694213105811466.png?v=1)
+`:puzzler:` | ![](https://cdn.discordapp.com/emojis/633023783074136074.png?v=1)
 
 
 ### Animated (Nitro)
