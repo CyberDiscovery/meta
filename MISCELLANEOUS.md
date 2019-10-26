@@ -68,6 +68,4 @@ Name | Picture
 :GoogleAssistant: | ![](https://cdn.discordapp.com/emojis/573579519638634526.gif?v=1)
 
 ## Other
-#AnaForRoot?
 Make !rank DM users rather than post a message?
-\#polls will no longer be purged regularly.
