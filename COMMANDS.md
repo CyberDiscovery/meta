@@ -37,7 +37,6 @@ Command | Purpose
 --- | ---
 :help | Responds with list of commands
 :assess [1-14] | Displays information about the corresponding level in CyberStart Assess
-:assess [1-14] | Displays information about the corresponding level in CyberStart Assess.
 :essentials | Displays the remaining time until the start of CyberStart Essentials.
 :fieldmanual | Returns a link to the CyberStart Game field manual.
 :flag [base] [level] [challenge] | Generate a very legitimate™️ flag for CyberStart Game.
