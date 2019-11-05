@@ -4,7 +4,6 @@ Role | Purpose | Pingable?
 --- | --- | ---
 Root | Server Administrator | :heavy_check_mark:
 Sudo | Server Moderator | :heavy_check_mark:
-Mentor | Specialists for providing support | :x:
 Agent J | [Agent J](https://twitter.com/jameslyne) himself | :x:
 Official Cyber Discovery Staff | Staff from the [Cyber Discovery](https://joincyberdiscovery.com) program | :heavy_check_mark:
 For Your Own Protection | Moderation role to hide all channels | :x:
