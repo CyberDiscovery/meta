@@ -25,6 +25,10 @@ Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 #cyberstart | :speech_balloon: | General discussion of CyberStart programmes | @everyone can read/write
 #boot-up | :speech_balloon: | Discussion of CyberStart Compete - Boot Up | @Compete - Boot Up can read/write
+#hq | :speech_balloon: | Discussion of CyberStart Game - HQ Base | @everyone can read/write
+#moon | :speech_balloon: | Discussion of CyberStart Game - Moon Base | @everyone can read/write
+#forensics | :speech_balloon: | Discussion of CyberStart Game - Forensics Base | @everyone can read/write
+#volcano | :speech_balloon: | Discussion of CyberStart Game - Volcano Base | @everyone can read/write
 
 ## Server Stuff
 Channel | Type | Purpose | Role Permissions
