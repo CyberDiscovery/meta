@@ -9,7 +9,7 @@ Command | Purpose
 !succ | Responds with https://www.tenor.co/EL2m.gif
 !zucc | Repsonds with https://www.tenor.co/WXZf.gif
 !inout | Responds with https://media.giphy.com/media/11gC4odpiRKuha/giphy.gif| @everyone
-!thisisfine | Responds with https://giphy.com/gifs/comic-adult-swim-this-is-fine-3o6UBpHgaXFDNAuttm
+!thisisfine | Responds with https://media.giphy.com/media/z9AUvhAEiXOqA/giphy.gif	
 !dance | Responds with https://cdn.discordapp.com/attachments/450107193820446722/484757289476030465/ezgif.com-video-to-gif3.gif
 !window | Responds with https://media.giphy.com/media/c6DIpCp1922KQ/giphy.gif
 !simples | Responds with https://thumbs.gfycat.com/DigitalGrandBrocketdeer-small.gif
