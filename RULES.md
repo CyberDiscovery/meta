@@ -51,7 +51,7 @@ The links will not be automatically removed by the moderation bots.
 
 Server | Link
 --- | ---
-Us | <https://discord.cyberdiscommunity.uk>
+Us | <https://discord.cyberdiscoverycommunity.uk>
 RACTF | <https://discord.gg/gQucNhf>
 The Many Hats Club | <https://discord.gg/infosec>
 Python | <https://discord/python>
