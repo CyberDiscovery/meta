@@ -27,9 +27,9 @@ For example, memes belong in #memes not #general, and discussion of Cyber Discov
 
 _Infractions are measured by severity and punished accordingly._
 
-1. Adult Content/Doxing/Discrimination
+1. Adult Content/Doxing/Discrimination - Temporary (14 day)/Permanent ban.
 
-Temporary(14 day)/Permanent ban. If the content is entirely unsuitable for the server, you will be banned. Doxing someone else is entirely unacceptable as well, as detailed in the doxing rules. Discriminating someone on the basis of sex, race, etc. will also be met with a ban.
+If the content is entirely unsuitable for the server, you will be banned. Doxing someone else is entirely unacceptable as well, as detailed in the doxing rules. Discriminating someone on the basis of sex, race, etc. will also be met with a ban.
 
 2. Harassment - Temporary (14 day)/Permanent Ban.
 
