@@ -35,7 +35,7 @@ Temporary(14 day)/Permanent ban. If the content is entirely unsuitable for the s
 
 Forms of sexual and verbal harassment are entirely unacceptable. Harassing another member on the server and ruining their experience is wrong, and, after being judged on a case-by-case basis, will be punished with a temporary or permanent ban.
 
-1. Repeated Infractions, Consistent Spam - 3 hour mute.
+3. Repeated Infractions, Consistent Spam - 3 hour mute.
 
 If you receive 3 such mutes, this will escalate to a temporary ban of duration 7 days. If you make another serious infraction soon after this, you will be permanently banned.
 
