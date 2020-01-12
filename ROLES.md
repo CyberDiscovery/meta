@@ -12,7 +12,6 @@ True 100% | Completed all of CyberStart Assess, Game, and Essentials | :x:
 100 Percent | Completed all of CyberStart Game | :x:
 Veteran - 2019 | Qualified for CyberStart Elite in 2019 | :x:
 Veteran - 2018 | Qualified for CyberStart Elite in 2018 | :x:
-Essentials | Completed CyberStart Essentials | :x:
 HQ | Completed the headquarters base from CyberStart Game | :x:
 Moonbase | Completed moon base from CyberStart Game | :x:
 Forensics | Completed forensics base from CyberStart Game | :x:
