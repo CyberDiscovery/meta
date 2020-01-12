@@ -54,7 +54,7 @@ Server | Link
 Us | <https://discord.cyberdiscoverycommunity.uk>
 RACTF | <https://discord.gg/gQucNhf>
 The Many Hats Club | <https://discord.gg/infosec>
-Python | <https://discord/python>
+Python | <https://discord.gg/python>
 Hack the Box | <https://discord.gg/hackthebox>
 Google Code-in | <https://discord.gg/rGwYUF9>
 
