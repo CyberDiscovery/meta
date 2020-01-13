@@ -26,7 +26,7 @@ Command | Purpose
 `!bbcnews` | Reponds with <https://www.bbc.co.uk/iplayer/live/bbcnews>
 `!skynews` | Responds with <https://www.youtube.com/watch?v=9Auq9mYxFEE>
 
-## Mee6
+## MEE6
 
 Command | Purpose
 --- | ---
