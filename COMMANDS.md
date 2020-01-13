@@ -50,4 +50,3 @@ Command | Purpose
 `%help` | Lists possible commands and their usage.
 `%weekly` | Returns the weekly maths question.
 `%question [number] [category]` | Returns a maths question, either random (optionally from category) or with a specific number.
-`!question` | Responds with a random maths question
