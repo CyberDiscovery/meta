@@ -51,7 +51,7 @@ Name | Picture
 `:lyneglasses:` | ![](https://cdn.discordapp.com/emojis/504312953885949962.png?v=1)
 `:lynesweat:` | ![](https://cdn.discordapp.com/emojis/504313941518843914.png?v=1)
 `:kali:` | ![](https://cdn.discordapp.com/emojis/506535944707637268.png?v=1)
-`:weirdtriangle:` | ![](https://cdn.discordapp.com/emojis/507880989289349121.png?v=1):
+`:weirdtriangle:` | ![](https://cdn.discordapp.com/emojis/507880989289349121.png?v=1)
 `:BlobUWU:` | ![](https://cdn.discordapp.com/emojis/511145947481374730.png?v=1)
 `:jibhat:` | ![](https://cdn.discordapp.com/emojis/514133131784224799.png?v=1)
 `:ThinkOrMiss:` | ![](https://cdn.discordapp.com/emojis/517672413450993664.png?v=1)
