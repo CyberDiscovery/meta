@@ -175,7 +175,3 @@ Name | Picture
 `:carlton:` | ![](https://cdn.discordapp.com/emojis/639121192384725019.gif?v=1)
 `:meow_party:` | ![](https://cdn.discordapp.com/emojis/639120942534098972.gif?v=1)
 `:disappear:` | ![](https://cdn.discordapp.com/emojis/639120715781636106.gif?v=1)
-
-## Other
-
-Make !rank DM users rather than post a message?
