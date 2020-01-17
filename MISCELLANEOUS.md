@@ -154,7 +154,7 @@ Name | Picture
 `:ablobweary:` | ![](https://cdn.discordapp.com/emojis/665746904348491806.gif?v=1)
 `:ablobsleeping:` | ![](https://cdn.discordapp.com/emojis/665745644878823434.gif?v=1)
 `:ablobquitecool:` | ![](https://cdn.discordapp.com/emojis/665486348999852042.gif?v=1)
-`:ablobwavehello:` | ![](https://cdn.discordapp.com/emojis/665398167260495884.gif?v=1)
+`:ablobwavehello:` | ![](https://cdn.discordapp.com/emojis/665397629647192097.gif?v=1)
 `:ablobheadpats:` | ![](https://cdn.discordapp.com/emojis/665398167260495884.gif?v=1)
 `:blobexcited:` | ![](https://cdn.discordapp.com/emojis/657347476981809194.gif?v=1)
 `:blobhug:` | ![](https://cdn.discordapp.com/emojis/656656568779145237.gif?v=1)
