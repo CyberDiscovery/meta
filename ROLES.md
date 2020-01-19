@@ -10,6 +10,7 @@ For Your Own Protection | Moderation role to hide all channels | :x:
 Community Developer | Made significant contributions to the [community GitHub projects](https://github.com/CyberDiscovery) | :heavy_check_mark:
 True 100% | Completed all of CyberStart Assess, Game, and Essentials | :x:
 100 Percent | Completed all of CyberStart Game | :x:
+Almost 100 Percent | Completed all of CyberStart Game Except v5.6 | :x:
 Veteran - 2019 | Qualified for CyberStart Elite in 2019 | :x:
 Veteran - 2018 | Qualified for CyberStart Elite in 2018 | :x:
 Forensicator | Completed GCFE | :x:
