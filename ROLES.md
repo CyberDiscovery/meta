@@ -30,3 +30,4 @@ Club Leader | Restricted access for [Cyber Discovery](https://joincyberdiscovery
 Muted | Cannot speak in any channel | :x:
 Game Support | Used for offering assistance with CyberStart Game | :heavy_check_mark:
 Static Name | Cannot change nickname | :x:
+Announcements | Notified on Announcements | :question:
