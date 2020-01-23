@@ -14,6 +14,7 @@ Veteran - 2019 | Qualified for CyberStart Elite in 2019 | :x:
 Veteran - 2018 | Qualified for CyberStart Elite in 2018 | :x:
 Forensicator | Completed GCFE | :x:
 Cyberist | Completed GCIH | :x:
+Elite Talent Development | Participating in the Elite Talent Development Programme | :x:
 Essentials | Completed CyberStart Essentials | :x:
 HQ | Completed the headquarters base from CyberStart Game | :x:
 Moonbase | Completed moon base from CyberStart Game | :x:
