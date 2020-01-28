@@ -37,7 +37,6 @@ Channel | Type | Purpose | Role Permissions
 
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
-`#friends-of-cd` | :speech_balloon: | Invite links to other partner servers | @everyone can read, @Root can write
 `#resources` | :speech_balloon: | Sharing of useful resources | @everyone can read/write
 `#quotes` | :speech_balloon: | Quoting funny or out-of-context messages | @everyone can read, @Quote Czar can write
 `#polls` | :speech_balloon: | Polls made with ?suggest will go in here | @everyone can read, bots can write
