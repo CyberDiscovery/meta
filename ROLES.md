@@ -19,7 +19,6 @@ HQ | Completed the headquarters base from CyberStart Game | :x:
 Moonbase | Completed moon base from CyberStart Game | :x:
 Forensics | Completed forensics base from CyberStart Game | :x:
 Volcano | Completed volcano base from CyberStart Game | :x:
-Partner Server | Staff or significant members of affiliated servers | :x:
 Quote Czar | Have the ability to quote messages in #quotes | :x:
 Level [1-75] | Automatically assigned roles for [MEE6](https://mee6.xyz) levels | :x:
 Year [9-13] | Corresponding school years | :x:
