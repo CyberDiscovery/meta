@@ -28,3 +28,4 @@ Trusted | Can use external emoji and control [Rythm](https://rythmbot.co/) | :x:
 Club Leader | Restricted access for [Cyber Discovery](https://joincyberdiscovery.com) club leaders | :x:
 Muted | Cannot speak in any channel | :x:
 Static Name | Cannot change nickname | :x:
+Announcements | Notified on Announcements | :question:
