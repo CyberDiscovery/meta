@@ -7,6 +7,7 @@ Sudo | Server Moderator | :heavy_check_mark:
 Agent J | [Agent J](https://twitter.com/jameslyne) himself | :x:
 Official Cyber Discovery Staff | Staff from the [Cyber Discovery](https://joincyberdiscovery.com) program | :heavy_check_mark:
 For Your Own Protection | Moderation role to hide all channels | :x:
+Completely Pissed | Drunk and should not be taken seriously | :x:
 Community Developer | Made significant contributions to the [community GitHub projects](https://github.com/CyberDiscovery) | :heavy_check_mark:
 True 100% | Completed all of CyberStart Assess, Game, and Essentials | :x:
 100 Percent | Completed all of CyberStart Game | :x:
