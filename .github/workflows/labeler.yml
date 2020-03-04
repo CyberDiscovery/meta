@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Labeler
-        uses: docker://decathlon/pull-request-labeler-action:2.0.1
+        uses: docker://decathlon/pull-request-labeler-action:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_PATH: ${{ secrets.GITHUB_WORKSPACE }}/.github/label-pr.yml
