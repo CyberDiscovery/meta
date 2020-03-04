@@ -4,8 +4,6 @@
   labels: ["roles"]
 - regExp: "CHANNELS\\.md$"
   labels: ["channels"]
-- regExp: "ROLES\\.md$"
-  labels: ["roles"]
 - regExp: "COMMANDS\\.md$"
   labels: ["commands"]
 - regExp: "RULES\\.md$"
