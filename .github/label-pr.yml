@@ -1,0 +1,14 @@
+- regExp: ".*\\.(yml|yaml)+$"
+  labels: ["actions"]
+- regExp: "ROLES\\.md$"
+  labels: ["roles"]
+- regExp: "CHANNELS\\.md$"
+  labels: ["channels"]
+- regExp: "ROLES\\.md$"
+  labels: ["roles"]
+- regExp: "COMMANDS\\.md$"
+  labels: ["commands"]
+- regExp: "RULES\\.md$"
+  labels: ["rules"]
+- regExp: "META\\.md$"
+  labels: ["meta"]
