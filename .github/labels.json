@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "duplicate",
         "color": "26282a",
         "description": "This issue or pull request already exists"
@@ -48,5 +49,9 @@
         "name": "rules",
         "color": "50bfe6",
         "description": "Changes to server rules"
+    }, {
+        "name": "labels",
+        "color": "5946b2",
+        "description": "Changes to GitHub labels"
     }
 ]
