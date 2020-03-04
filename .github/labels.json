@@ -1,0 +1,57 @@
+[
+    {
+        "name": "duplicate",
+        "color": "26282a",
+        "description": "This issue or pull request already exists"
+    },
+    {
+        "name": "enhancement",
+        "color": "105a5b",
+        "description": "New feature or request"
+    },
+    {
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed"
+    },
+    {
+        "name": "meta",
+        "color": "07a45d",
+        "description": "Related to this repo, rather than the server"
+    },
+    {
+        "name": "question",
+        "color": "66176f",
+        "description": "Further information is requested"
+    },
+    {
+        "name": "under discussion",
+        "color": "1e3a21",
+        "description": "Under discussion by server staff"
+    },
+    {
+        "name": "actions",
+        "color": "ff355e",
+        "description": "Changes to GitHub Actions"
+    }, {
+        "name": "roles",
+        "color": "ff9933",
+        "description": "Changes to server roles"
+    }, {
+        "name": "channels",
+        "color": "ffff66",
+        "description": "Changes to server channels"
+    }, {
+        "name": "commands",
+        "color": "66ff66",
+        "description": "Changes to bot commands"
+    }, {
+        "name": "rules",
+        "color": "50bfe6",
+        "description": "Changes to server rules"
+    }, {
+        "name": "labels",
+        "color": "5946b2",
+        "description": "Changes to GitHub labels"
+    }
+]

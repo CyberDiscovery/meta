@@ -1,0 +1,22 @@
+meta:
+  - .github/*
+  - .github/**/*
+  
+actions:
+  - .github/*.yml
+  - .github/**/*.yml
+
+labels:
+  - .github/labels.json
+
+roles:
+  - ROLES.md
+
+channels:
+  - CHANNELS.md
+
+commands:
+  - COMMANDS.md
+
+rules:
+  - RULES.md
