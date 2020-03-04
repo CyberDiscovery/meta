@@ -1,0 +1,31 @@
+[{
+        "name": "duplicate",
+        "color": "26282a",
+        "description": "This issue or pull request already exists"
+    },
+    {
+        "name": "enhancement",
+        "color": "105a5b",
+        "description": "New feature or request"
+    },
+    {
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed"
+    },
+    {
+        "name": "meta",
+        "color": "07a45d",
+        "description": "Related to this repo, rather than the server"
+    },
+    {
+        "name": "question",
+        "color": "66176f",
+        "description": "Further information is requested"
+    },
+    {
+        "name": "under discussion",
+        "color": "1e3a21",
+        "description": "Under discussion by server staff"
+    }
+]
