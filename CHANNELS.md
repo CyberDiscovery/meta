@@ -37,7 +37,6 @@ Channel | Type | Purpose | Role Permissions
 
 Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
-`#friends-of-cd` | :speech_balloon: | Invite links to other partner servers | @everyone can read, @Root can write
 `#resources` | :speech_balloon: | Sharing of useful resources | @everyone can read/write
 `#quotes` | :speech_balloon: | Quoting funny or out-of-context messages | @everyone can read, @Quote Czar can write
 `#polls` | :speech_balloon: | Polls made with ?suggest will go in here | @everyone can read, bots can write
@@ -51,8 +50,10 @@ Channel | Type | Purpose | Role Permissions
 `#elite-2019` | :speech_balloon: | Discussion of CyberStart Elite 2019 | @everyone denied, @Elite 2019 can read/write
 `#cyberists` | :speech_balloon: | Preparation for SEC504 exam | @everyone denied, @Cyberist can read/write
 `#forensicators` | :speech_balloon: | Preparation for FOR500 exam | @everyone denied, @Forensicator can read/write
-`Elite 2018` | :microphone: | Corresponding voice channel for #elite-2018 | @everyone denied, @Veteran 2018 can join and talk
-`Elite 2019` | :microphone: | Corresponding voice channel for #elite-2019 | @everyone denied, @Veteran 2019 can join and talk
+`#talent-development` | :speech_balloon: | Discussion of the Elite Talent Development Programme | @everyone denied, @Elite Talent Development can read/write
+`Elite 2018` | :microphone: | Corresponding voice channel for `#elite-2018` | @everyone denied, @Veteran 2018 can join and talk
+`Elite 2019` | :microphone: | Corresponding voice channel for `#elite-2019` | @everyone denied, @Veteran 2019 can join and talk
+`Talent Development` | :microphone: | Corresponding voice channel for `#talent-development` | @everyone denied, @Elite Talent Development can join and talk
 
 ## Sound Samurais
 

@@ -1,4 +1,4 @@
-# Cyber Discovery Community Discord Meta Repository
+# Cyber Discovery Community Discord Meta Repository [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fcyberdiscovery%2Fmeta%2Fbadge&style=flat)](https://actions-badge.atrox.dev/cyberdiscovery/meta/goto)
 
 This repository is for meta discussion of the Cyber Discovery [Discord server](https://discord.cyberdiscoverycommunity.uk).
 
