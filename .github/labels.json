@@ -53,5 +53,13 @@
         "name": "labels",
         "color": "5946b2",
         "description": "Changes to GitHub labels"
+    }, {
+        "name": "issue",
+        "color": "24601e",
+        "description": "Problems with the server or infrastructure"
+    }, {
+        "name": "stale",
+        "color": "ee34D2",
+        "description": "Problems with the server or infrastructure"
     }
 ]
