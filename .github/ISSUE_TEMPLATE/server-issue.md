@@ -2,7 +2,7 @@
 name: Server Issue
 about: Discuss an issue with the server or surrounding infrastructure
 title: ''
-labels: ''
+labels: issue
 assignees: ''
 
 ---
