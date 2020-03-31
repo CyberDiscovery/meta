@@ -16,12 +16,12 @@ Channel | Type | Purpose | Role Permissions
 --- | --- | --- | ---
 `#general` | :speech_balloon: | General discussion | @everyone can read/write
 `#overflow` | :speech_balloon: | Discussion that doesn't belong in general, including controversial topics or trolling | @everyone can read/write
-`#politics` | :speech_balloon: | Discussion about political matters. | @everyone can read/write
 `#media` | :speech_balloon: | TV, movies, music, etc. | @everyone can read/write
-`#gaming` | :speech_balloon: | Video games in all their forms | @everyone can read/write
 `#memes` | :speech_balloon: | Posting SFW memes | @everyone can read/write
+`#gaming` | :speech_balloon: | Video games in all their forms | @everyone can read/write
 `#tech` | :speech_balloon: | Computer hardware, software & practical STEM applications | @everyone can read/write
 `#politics` | :speech_balloon: | Discussion of Politics | @everyone can read/write
+`#minecraft` | :speech_balloon: | Discussion of the Cyber Discovery Community Discord Server Coronavirus Quarantine Minecraft Server | @everyone can read/write
 
 ## CyberStart
 
@@ -32,6 +32,7 @@ Channel | Type | Purpose | Role Permissions
 `#moon` | :speech_balloon: | Discussion of CyberStart Game - Moon Base | @everyone can read/write
 `#forensics` | :speech_balloon: | Discussion of CyberStart Game - Forensics Base | @everyone can read/write
 `#volcano` | :speech_balloon: | Discussion of CyberStart Game - Volcano Base | @everyone can read/write
+`#essentials` | :speech_balloon: | Discussion of CyberStart Essentials | @everyone can read/write
 
 ## Server Stuff
 
@@ -51,9 +52,7 @@ Channel | Type | Purpose | Role Permissions
 `#cyberists` | :speech_balloon: | Preparation for SEC504 exam | @everyone denied, @Cyberist can read/write
 `#forensicators` | :speech_balloon: | Preparation for FOR500 exam | @everyone denied, @Forensicator can read/write
 `#talent-development` | :speech_balloon: | Discussion of the Elite Talent Development Programme | @everyone denied, @Elite Talent Development can read/write
-`Elite 2018` | :microphone: | Corresponding voice channel for `#elite-2018` | @everyone denied, @Veteran 2018 can join and talk
-`Elite 2019` | :microphone: | Corresponding voice channel for `#elite-2019` | @everyone denied, @Veteran 2019 can join and talk
-`Talent Development` | :microphone: | Corresponding voice channel for `#talent-development` | @everyone denied, @Elite Talent Development can join and talk
+`Elite Voice` | :microphone: | Corresponding voice channel for `#elite-2018` | @everyone denied, @Veteran 2018 & 2019, Elite Talent Development can join and talk
 
 ## Sound Samurais
 
